@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-09T12:59:29.982Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="0XgEcgl1tsumhx1ME_hl" version="21.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-09T13:00:33.116Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="GGww7gJ8uy6B-KeNUNzu" version="21.1.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1050" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -23,6 +23,9 @@
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-6" value="够捞取分?&lt;br&gt;一般是480分" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="440" y="200" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZRIESNP7DEcbABpMBReL-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-7" target="ZRIESNP7DEcbABpMBReL-39">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-7" value="等待被捞取" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="450" y="715" width="80" height="40" as="geometry" />
@@ -105,6 +108,9 @@
         </mxCell>
         <mxCell id="ZRIESNP7DEcbABpMBReL-28" value="雇主申请&lt;br&gt;LMIA+省提名" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="310" y="716" width="86" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZRIESNP7DEcbABpMBReL-39" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="445" y="794" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
